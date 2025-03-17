@@ -15,6 +15,9 @@ Tool Paradise Nuker a discord raider with op features! Some people sell that shi
 ✔ Multi Threading
 ✔ Free Or Paid Proxies
 ```
+## ✍️・Preview
+<img src="image.webp" alt="Nuker">
+
 
 ## ✍️・Setup
 1. Add your proxies in `proxies.txt`
