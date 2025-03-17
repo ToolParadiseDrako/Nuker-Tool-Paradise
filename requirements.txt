@@ -3,5 +3,5 @@ websocket-client
 pystyle
 requests
 tls_client
-httpx_client
+AsyncHttpX
 typing_extensions

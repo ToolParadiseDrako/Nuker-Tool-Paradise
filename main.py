@@ -5,8 +5,9 @@ import colorama
 import tls_client 
 import pystyle
 import datetime
-import httpx_client
-from httpx_client import loop
+import AsyncHttpX
+
+from AsyncHttpX import loop
 
 from websocket import WebSocket
 from colorama import *
